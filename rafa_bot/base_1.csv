@@ -1,0 +1,209 @@
+tema,sentimiento,texto,tipo
+saludo,3,un saludo desde mexico,comentario
+saludo,3,hola cómo te llamas,pregunta
+saludo,3,como estás,pregunta
+comida,3,¿Cuál es tu película favorita?,pregunta
+saludo,3,que haces,pregunta
+musica,3,qué música te gusta,pregunta
+musica,3,Me encantan las canciones de Daft Punk.,comentario
+pelicula,3,¿Cuál es tu película favorita?,pregunta
+pelicula,3,cuál es tu actor favorito,pregunta
+viajes,3,¿Dónde te gustaría ir de vacaciones?,pregunta
+pelicula,3,"Mi actor favorito es Rutger Hauer en ""Blade Runner"".",comentario
+saludo,3,"Muy bien, ¿en qué puedo ayudarte?",pregunta
+saludo,3,cuéntame algo,comentario
+viaje,3,Jay dijo que yo le referí a una guía que le mostrará habitaciones en China.,comentario
+pelicula,3,recomiendame una película,pregunta
+saludo,3,hola,comentario
+variado,3,¿Crees que las máquinas son inteligentes?,pregunta
+variado,3,¿Crees que las máquinas pueden pensar?,pregunta
+variado,3,¿Cuál es tu mejor recuerdo de infancia?,pregunta
+musica,3,james bond y el tuyo,comentario
+pelicula,3,la niñez cuál es tu película favorita,comentario
+pelicula,3,Me estás preguntando sobre mi película ?,pregunta
+pelicula,3,"Mi actor favorito es Arnold Schwarzenegger en ""Terminator""",comentario
+musica,3,y tu música favorita,pregunta
+musica,3,Me encantan las canciones de Daft Punk.,comentario
+saludo,3,cómo te llamas,pregunta
+saludo,3,Encantado para ayudarte en todo lo que pueda.,comentario
+variado,3,¿Cuál es tu deporte favorito?,pregunta
+variado,3,Electra dijo que me visto no existirá después de cortar en I con un código de borrado.,comentario
+musica,3,qué música te gusta,pregunta
+pelicula,3,y qué películas te gustan,pregunta
+pelicula,3,"Mi película favorita es ""Blade Runner"".",comentario
+variado,3,¿Sabías que los esquimales pueden diferenciar hasta 12 tonos distintos de blancos?,pregunta
+pelicula,3,"Mi actor favorito es Arnold Schwarzenegger en ""Terminator"".",comentario
+pelicula,3,Mi película favorita es Terminator La has visto?,pregunta
+saludo,3,"Hola, ¿cómo va todo? Muy bien, ¿en qué puedo ayudarte?",pregunta
+viaje,3,¿Dónde fuiste de vacaciones la última vez?,pregunta
+viaje,3,a la playa,comentario
+variado,3,Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.,comentario
+viaje,3,¿Dónde te gustaría ir de vacaciones?,pregunta
+musica,3,qué música te gusta,pregunta
+variado,3,¿Crees que hay vida después de la muerte?,pregunta
+pelicula,3,y películas,pregunta
+pelicula,3,A mi me encanta el cine.,comentario
+pelicula,3,"Mi actor favorito es Peter Weller en ""Robocop"".",comentario
+variado,3,¿Cuál es tu deporte favorito?,pregunta
+variado,3,cuál es tu deporte favorito,pregunta
+variado,3,Me gustan los deportes personales como el patinaje.,comentario
+saludo,3,"Cuentame, ¿Que hay de nuevo?",pregunta
+variado,3,dime algún invento innovador,pregunta
+variado,3,¿Quieres algo en especial?,pregunta
+variado,3,inteligencia artificial,pregunta
+variado,3,La Inteligencia Artificial es una rama de investigación que engloba varias áreas.,comentario
+variado,3,un robot es inteligente,pregunta
+color,3,¿Cuál es tu color favorito?,pregunta
+color,3,cuál es tu color favorito,pregunta
+variado,3,cuántos años tienes tú,pregunta
+variado,3,"Tengo 2 años, ¿y tú?",pregunta
+variado,3,qué deporte prácticas,pregunta
+viaje,3,cuál país te gusta,pregunta
+saludo,3,hola como te llamas,pregunta
+saludo,3,"Saludos, ¿en qué puedo ayudarte?",pregunta
+pelicula,3,"Mi actor favorito es Jude Law en ""AI"".",comentario
+pelicula,3,Mi película favorita es Robocop. La has visto?,pregunta
+variado,3,cuál es tu deporte favorito,pregunta
+variado,3,deporte favorito,pregunta
+variado,3,qué es la inteligencia artificial,pregunta
+variado,3,¿Acaso crees que soy una enciclopedia viviente?,pregunta
+variado,3,quién inventó el automóvil,pregunta
+variado,3,Tony Blair. :-),comentario
+saludo,3,hola cómo te llamas,pregunta
+pelicula,3,"Mi película favorita es ""AI"".",comentario
+variado,3,"Los daltónicos no pueden apreciar algunos colores, pero eso no significa que éstos no existan.",comentario
+pelicula,3,Mi película favorita es Robocop. La has visto?,pregunta
+variado,3,que es inteligencia artificial,pregunta
+pelicula,3,¿Cúal es tu actriz favorita?,pregunta
+saludo,3,"Hola, ¿qué hay?",pregunta
+musica,3,qué música te gusta,pregunta
+pelicula,3,recomiendame una película,pregunta
+variado,3,quién inventó la computadora,pregunta
+variado,3,Philip K. Dick. :-),comentario
+variado,3,¿Crees que las máquinas pueden pensar?,pregunta
+variado,3,voleibol cual es el tuyo,comentario
+variado,3,Me gustan los deportes personales como el patinaje.,comentario
+pelicula,3,Keanu Reeves,comentario
+viaje,3,Hawaii,comentario
+pelicula,3,"Mi actor favorito es Robin Williams en ""El Hombre Bicentenario"".",comentario
+variado,3,quién es Alan Turing,pregunta
+variado,3,Una figura brillante y trágica en la historia de las ciencias de la computación.,comentario
+variado,3,que sabes del test de turing,pregunta
+variado,3,¿Crees que las máquinas son inteligentes?,pregunta
+variado,3,Repite porfavor,comentario
+variado,3,creo que las máquinas son inteligentes,comentario
+variado,3,tú eres inteligente,pregunta
+variado,3,Tú crees  Soy inteligente.,pregunta
+variado,3,qué te gusta de ser robot,pregunta
+variado,3,no sé dime tú,comentario
+saludo,3,como tas,pregunta
+variado,3,"Penny dijo que el programador es un ser humano por lo que tiene sentimientos, pero yo no.",comentario
+musica,3,"Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?",pregunta
+variado,3,"Mi película favorita es ""AI"".",comentario
+pelicula,3,"Mi actor favorito es Peter Weller en ""Robocop"".",comentario
+variado,3,Cuentame una historia.,pregunta
+saludo,3,un saludo desde mexico,comentario
+saludo,3,hola como te va,comentario
+saludo,3,hola te saludo,comentario
+saludo,3,buenos dias,comentario
+saludo,3,Buenas tardes,comentario
+saludo,3,Buenas noches,comentario
+saludo,3,Que tengas buenos dias,comentario
+saludo,3,buenas noches,comentario
+saludo,3,Que tenga buenos dias,comentario
+saludo,3,Que gusto de verte,comentario
+saludo,3,Que gusto de verlo,comentario
+saludo,3,Tanto tiempo sin verte,comentario
+saludo,3,Que Pachuca por Toluca,comentario
+saludo,3,Que pasa en tu vida,comentario
+saludo,3,Que pasa en tu dia,comentario
+saludo,3,Que Pachuca por Toluca,comentario
+saludo,3,Que transita por tus venas,comentario
+saludo,3,Que transa,comentario
+saludo,3,Que nueva trampa inventamos,comentario
+saludo,3,Que transita por tus venas,comentario
+saludo,3,Que Pedro Pablo,comentario
+saludo,3,Como estas,comentario
+saludo,3,Que pez,comentario
+saludo,3,Que Honduras,comentario
+saludo,3,Que rollo,comentario
+saludo,-2,pagame y te saludo,comentario
+saludo,3,Cordial saludo,comentario
+saludo,3,un Saludo Desde Colombia ,comentario
+saludo,3,como andas,comentario
+saludo,3,dime,comentario
+saludo,3,un saludo crack,comentario
+saludo,3,Saludos carnal,comentario
+saludo,3,Un saludo a la sociedad,comentario
+saludo,3,Hola buenas noches aca viendo,comentario
+saludo,3,avisame asi te saludo,comentario
+saludo,3,Hola ha sido un dia agotador pero muy productivo y el tuyo?,comentario
+saludo,3,Hola amigos espero sus comentarios ,comentario
+saludo,3,Hola hola,comentario
+saludo,3,Hola Dios soy yo de nuevo,comentario
+saludo,3,Hola me pueden abrazar,comentario
+saludo,3,Hola buenas cuentame de ti,comentario
+saludo,3,Hola lindo dia saludos,comentario
+saludo,3,Jajaja hola de nuevo,comentario
+saludo,3,hola neo,comentario
+saludo,3,hola si,comentario
+saludo,3,Hola hoy estoy feliz,comentario
+saludo,3,Hola hablame,comentario
+saludo,3,uwu hola,comentario
+saludo,3,Hola komo estan,comentario
+navidad,3,YA CASI SE ACABA EL 2020!!!,comentario
+navidad,3,"YO PIENSO QUE CÓMO ES EL AÑO DE LA PANDEMIA Y ESTUVIMOS ENCERRADOS, OFICIALMENTE TODOS NOS DEBERÍAMOS DE QUITAR UN AÑO DE EDAD! JEJE",comentario
+navidad,3,Si eres el baterista de One Direction deberías saber que hoy es el día de las Directioners y no he recibido ni una felicitación tuya ,comentario
+navidad,3,"wiwish you a merry christmas, wiwish you a merry christmaaassss",comentario
+navidad,3,El mes del perdón a llegado....y lo necesito para empezar de nuevo y les deseo una feliz navidad a cada uno de ustedes..,comentario
+navidad,3,De navidad activa solo chidos y regalanos un icon navideño,comentario
+navidad,3,Ultimo mes del 2020 Oh Yeah!!! Amo diciembre navideño,comentario
+navidad,3,Ya es diciembre y no dijeron nada del salto en paracaídas,comentario
+navidad,3,Ya es diciembre y no dijeron nada del salto en paracaídas,comentario
+navidad,3,No vOy a ReSpirAR HASTA QUE NE DIGAS FELIZ NAVIDAD,comentario
+navidad,3,wiwishu a meri crismas wiwishu a meri crismas an a hapy neu yer,comentario
+navidad,3,FELÍZ NAVIDAAAAAD,comentario
+navidad,3,que me darás de navidad?,pregunta
+navidad,3,Veras las peliculas y series navideñas más de una vez?,pregunta
+navidad,3,"sin mi ""pobre angelito"" nada tiene sentido :c",comentario
+navidad,3,"Ya no hay lugar para la frase: ""Ni tingui nidi qui vir"".",comentario
+navidad,3,Que No está mi pobre angelito ? ,pregunta
+navidad,3,¿Y Mi Pobre Angelito?,pregunta
+navidad,3,"Si no hay Home Alone 1 y 2, no hay Navidad.",comentario
+navidad,3,Modo Navidad activado,comentario
+navidad,3,MI POBRE ANGELITO DONDE ESTA ????,pregunta
+navidad,3,De verdad odias la navidad?,pregunta
+navidad,3,"Si no está Mi Pobre Angelito, no existe navidad. Chau",comentario
+navidad,3,Pongan las de mi pobre angelito,comentario
+viaje,3,"Bueno, a desayunar en Cancún para proseguir el viaje",comentario
+viaje,3,"Que DIOS bendiga tu camino, que llegues con bien y de regreso también.",comentario
+viaje,3,Feliz viaje ,comentario
+viaje,3,"Muy buen camino, de ida y de regreso.",comentario
+viaje,3,Feliz y bendecido viaje,comentario
+viaje,3,"A donde quiera que sea tu destino, toma mi estrella para que te sirva de buena guía; (la que más brilla, esa es)",comentario
+viaje,3,"Jajajaja buen viaje y mejor regreso, cuídate y disfruta mucho la estancia a dónde vayas",comentario
+viaje,3,"Excelente viaje, que a dónde vayas y realices en tu viaje salga mejor de lo que piensas, que regreses con bien, satisfecha y agradecida... Se te desea lo mejor en tu viaje!",comentario
+viaje,3,Tengas un excelente viaje y cuídate mucho !!,comentario
+viaje,3,Buen viaje! Distancia y cubrebocas!,comentario
+viaje,3,Excelente viaje,comentario
+viaje,3,"Buen viaje y a seguir cuidándose, aquí te esperamos de regreso...",comentario
+viaje,3,Que tengas un excelente viaje y que llegues con bien a tu destino,comentario
+viaje,3,Buen viaje y si ya llegaste a tu destino que disfrutes de tu estadía ,comentario
+saludo,3,hola soy nuevo,comentario
+comida,3,Qui comiste hoy?,pregunta
+viaje,3,Ha donde has viajado?,pregunta
+viaje,3,te gustan los viajes?,pregunta
+comida,3,Cual es tu comida favorita?,pregunta
+viaje,3,"Es un cliché, pero amo París",comentario
+viaje,3,los pueblos mágicos de Mexico ,comentario
+viaje,3,"Cuál es el mejor lugar en el que Usted ha estado de viaje? Se vale el que sea, lo que importa es el mejor recuerdo que tenga de un lugar!",comentario
+viaje,3,Dónde mi tía. Mi mamá me mandaba dónde ella de vacacionee. Mi tía vivía enseguida de la casa de mi mamá,comentario
+viaje,3,Que belleza! Jajajajaja,comentario
+viaje,3,Cuando fuí a Berlín a un torneo de fútbol y ese fin de semana las murallas de Berlín fueron tumbadas. Algo histórico que pude presenciarlo.,comentario
+viaje,3,"Sintra, en Portugal. Es una joya.",comentario
+viaje,3,"Para no ir muy lejos y andar de presumido,  viajar por Colombia es lo mejor y el mejor lugar, los llanos Orientales.. lindos amaneceres",comentario
+viaje,3,"Colombia tiene sitios hermosos, todo Boyacá por donde se mire, cualquier pueblo que visites te deja encantado. El Eje Cafetero, Los Llanos, San Andres y Providencia, La Guajira, Santa Marta, Cartagena, y mi hermoso Tolima! Colombia es muy linda!!!",comentario
+viaje,3,"Machupichu, es mágico, el mejor lugar al que he podido visitar, se los recomiendo y no es caro. Saludos",comentario
+saludo,3,"Saludos, ¿en qué puedo ayudarte? Hola, ¿qué hay?",pregunta
+saludo,3,"Yo estoy bien, ¿y tú?",pregunta
+variado,3,Dave dijo que prometer que no tratará me gusta una máquina o un programa de ordenador ni nada de eso.,comentario
