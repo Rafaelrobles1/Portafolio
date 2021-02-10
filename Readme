@@ -1,2 +1,4 @@
 Lista de ejemplos dentro del portafolio
-Se colocan dos ejemplos de chat bot, el 
+Se colocan dos ejemplos de chatbot, el primero es chatbot_news que identifica las noticias falsas que pueden existir.
+El otro ejemplo es rafa_bot que es una implementación sencilla con la cual se puede tener una conversación sencilla.
+
